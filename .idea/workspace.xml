@@ -2,13 +2,15 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file:///repositories/rossmann/rossmann_playground/server/hybris/bin/ext-commerce/marketplaceservices/src/de/hybris/platform/marketplaceservices/strategies/VendorOrderTotalPriceCalculationStrategy.java" description="double calculateTotalPrice(ConsignmentModel consig..." line="27" />
+    <bookmark url="file:///repositories/rossmann/rossmann_playground/project/extensions/integration/jmsintegrationcommon/src/com/mgmtp/hybris/jmsintegration/importresult/KImportResultService.java" description="void removeOldImportResults(final Date deleteBefor..." line="49" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b5481d2-3cea-4548-a7d6-53f07e4f75b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/de/de/functions/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/de/de/currency/FloatingPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/de/de/currency/Unbelievable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/de/de/threads/AtomicIntegerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/de/de/de/threads/StopThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java9tryouts/de/de/lambdas/Mersenne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java9tryouts/de/de/lambdas/Mersenne.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,24 +23,28 @@
     <session id="-883656477">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4830" />
+          <entry key="JAVA" value="5572" />
           <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="26" />
+          <entry key="JAVA" value="30" />
         </counts>
       </usages-collector>
     </session>
@@ -46,43 +52,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/de/de/lambdas/Mersenne.java">
+        <entry file="file://$PROJECT_DIR$/src/de/de/de/currency/Unbelievable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="15" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/de/de/lambdas/tophits/Album.java">
+        <entry file="file://$PROJECT_DIR$/src/de/de/de/threads/StopThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="57" column="38" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/de/de/lambdas/PiPie.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/de/de/de/threads/AtomicIntegerExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/de/functions/Overloading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="345">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/de/de/functions/NonNull.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+            <state relative-caret-position="405">
+              <caret line="34" column="2" selection-start-line="33" selection-start-column="3" selection-end-line="34" selection-end-column="2" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#613#614#0" expanded="true" />
@@ -178,12 +178,16 @@
         <option value="$PROJECT_DIR$/src/de/de/functions/NonNull.java" />
         <option value="$PROJECT_DIR$/src/de/de/functions/Overloading.java" />
         <option value="$PROJECT_DIR$/src/de/de/lambdas/PiPie.java" />
+        <option value="$PROJECT_DIR$/src/de/de/de/currency/FloatingPoint.java" />
+        <option value="$PROJECT_DIR$/src/de/de/de/currency/Unbelievable.java" />
+        <option value="$PROJECT_DIR$/src/de/de/de/threads/StopThread.java" />
+        <option value="$PROJECT_DIR$/src/de/de/de/threads/AtomicIntegerExample.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="38" />
+    <option name="y" value="24" />
     <option name="width" value="1642" />
     <option name="height" value="987" />
   </component>
@@ -194,8 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,7 +229,37 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="de" type="462c0819:PsiDirectoryNode" />
               <item name="de" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java9tryouts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="threads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java9tryouts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="threads" type="462c0819:PsiDirectoryNode" />
+              <item name="AtomicIntegerExample" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java9tryouts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="threads" type="462c0819:PsiDirectoryNode" />
+              <item name="AtomicIntegerExample" type="1a9f42e2:ClassTreeNode" />
+              <item name="MyRunnable" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
@@ -236,24 +268,6 @@
               <item name="de" type="462c0819:PsiDirectoryNode" />
               <item name="de" type="462c0819:PsiDirectoryNode" />
               <item name="functions" type="462c0819:PsiDirectoryNode" />
-              <item name="Overloading" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java9tryouts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="de" type="462c0819:PsiDirectoryNode" />
-              <item name="de" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java9tryouts" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="de" type="462c0819:PsiDirectoryNode" />
-              <item name="de" type="462c0819:PsiDirectoryNode" />
-              <item name="lambdas" type="462c0819:PsiDirectoryNode" />
-              <item name="PiPie" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
@@ -269,152 +283,17 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="java.base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="Class" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="StringBuilder" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-              <item name="BiConsumer" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-              <item name="BiFunction" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryOperator" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="function" type="462c0819:PsiDirectoryNode" />
-              <item name="ObjIntConsumer" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="Collectors" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="IntStream" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Comparator" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="java9tryouts" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="java.base" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Map" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544622779249" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545206700841" />
   </component>
   <component name="RecentsManager">
     <key name="MoveMembersDialog.RECENTS_KEY">
@@ -433,13 +312,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Overloading">
-    <configuration name="Mersenne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.de.lambdas.Mersenne" />
+  <component name="RunManager" selected="Application.AtomicIntegerExample">
+    <configuration name="AtomicIntegerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.de.de.threads.AtomicIntegerExample" />
       <module name="java9tryouts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.de.lambdas.tophits.*" />
+          <option name="PATTERN" value="de.de.de.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.de.functions.NonNull" />
+    <configuration name="FloatingPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.de.de.currency.FloatingPoint" />
       <module name="java9tryouts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.de.functions.*" />
+          <option name="PATTERN" value="de.de.de.currency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -473,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PiPie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.de.lambdas.PiPie" />
+    <configuration name="StopThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.de.de.threads.StopThread" />
       <module name="java9tryouts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.de.lambdas.*" />
+          <option name="PATTERN" value="de.de.de.threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -486,12 +365,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopHits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.de.lambdas.tophits.TopHits" />
+    <configuration name="Unbelievable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.de.de.currency.Unbelievable" />
       <module name="java9tryouts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="de.de.lambdas.tophits.*" />
+          <option name="PATTERN" value="de.de.de.currency.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -500,19 +379,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Mersenne" />
-      <item itemvalue="Application.TopHits" />
-      <item itemvalue="Application.PiPie" />
-      <item itemvalue="Application.NonNull" />
       <item itemvalue="Application.Overloading" />
+      <item itemvalue="Application.FloatingPoint" />
+      <item itemvalue="Application.Unbelievable" />
+      <item itemvalue="Application.StopThread" />
+      <item itemvalue="Application.AtomicIntegerExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtomicIntegerExample" />
+        <item itemvalue="Application.StopThread" />
+        <item itemvalue="Application.Unbelievable" />
+        <item itemvalue="Application.FloatingPoint" />
         <item itemvalue="Application.Overloading" />
-        <item itemvalue="Application.NonNull" />
-        <item itemvalue="Application.PiPie" />
-        <item itemvalue="Application.TopHits" />
-        <item itemvalue="Application.Mersenne" />
       </list>
     </recent_temporary>
   </component>
@@ -530,10 +409,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="23" width="1642" height="987" extended-state="0" />
+    <frame x="38" y="24" width="1642" height="987" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.278125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -689,9 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="15" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,6 +582,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/de/de/currency/FloatingPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="4" selection-start-column="1" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/de/de/currency/Unbelievable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/de/de/threads/StopThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/de/de/functions/Overloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -714,8 +618,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/de/de/functions/NonNull.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        <state relative-caret-position="405">
+          <caret line="34" column="2" selection-start-line="33" selection-start-column="3" selection-end-line="34" selection-end-column="2" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#613#614#0" expanded="true" />
@@ -755,13 +659,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/de/de/functions/Overloading.java">
+    <entry file="file://$PROJECT_DIR$/src/de/de/de/threads/AtomicIntegerExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
